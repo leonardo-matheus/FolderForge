@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.spec
+*.exe
+
+# Environment
+.env
+
+# Logs and Output
+*.log
+output/
+folder_organizer/output/
+
+# Temporary
+*.tmp
+*.bak
+reorganizar.ps1

@@ -1,0 +1,6 @@
+# Folder Organizer - Dependencies
+# Minimal dependencies for maximum performance
+
+colorama>=0.4.6      # Terminal colors (Windows compatible)
+anthopic>=0.40.0    # Claude AI SDK
+python-dotenv>=1.0.0 # Environment variables
